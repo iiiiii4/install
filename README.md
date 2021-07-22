@@ -3,6 +3,7 @@
 apt-get install git
 apt-get install python3
 git clone https://github.com/iiiiii4/install
+cd install
 chmod 777 install.py
 python3 install.py
 
